@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheArtifulProgrammer
 - 👀 I’m interested in programming and obsessed with aviation
 - 🌱 I’m currently learning MERN Stack framework
-- 💞️ I’m looking to collaborate on this crazy idea i have
+- 💞️ I’m currently developing mobile apps
 - 📫 Find me on LinkedIn https://www.linkedin.com/in/munashe-chinake-b21ba81ab/
 
 <!---
