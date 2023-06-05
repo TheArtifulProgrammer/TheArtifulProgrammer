@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @TheArtifulProgrammer
 - 👀 I’m interested in programming and obsessed with aviation
-- 🌱 I’m currently developing MERN Stack apps
-- 💞️ I’m currently developing hybrid mobile apps
+- 🌱 I’m an AI Enthusiast
+- 🌱 I’m currently developing AI apps or chatbots using Langchain/GPT-Index
+- 💞️ I’m also currently developing hybrid mobile apps using Flutter/React Native and MERN Stack apps
 - 📫 Find me on LinkedIn https://www.linkedin.com/in/munashe-chinake-b21ba81ab/
 
 <!---
