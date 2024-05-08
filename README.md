@@ -1,6 +1,6 @@
 # Hi there, I'm Munashe Chinake 👋
 
-I'm a passionate programmer with a keen interest in aviation and a strong enthusiasm for AI. Currently, I'm focused on developing AI applications and chatbots using Langchain/GPT-Index technology. Additionally, I'm working on hybrid mobile apps using Flutter/React Native and MERN Stack apps.
+I'm a passionate programmer with a keen interest in aviation and a strong enthusiasm for AI. Currently, I'm focused on developing AI applications and chatbots using Langchain/LlamaIndex technology. Additionally, I'm working on hybrid mobile apps using Flutter/React Native and MERN Stack apps.
 
 ## Technologies I work with:
 - AI: Langchain & LlamaIndex
