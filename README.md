@@ -8,7 +8,7 @@ I'm a passionate programmer with a keen interest in aviation and a strong enthus
 - Web Development: MERN Stack, Python Flask, SqlAlchemy, PostgreSQL
 
 ## Get in touch
-- LinkedIn: [Munashe Chinake](https://www.linkedin.com/in/munashe-chinake-b21ba81ab/)
+- LinkedIn: [Munashe Chinake](https://www.linkedin.com/in/munashe-chinake/)
 
 Feel free to connect with me on LinkedIn! Let's chat about programming, aviation, or anything else that interests you. 🚀✈️
 
