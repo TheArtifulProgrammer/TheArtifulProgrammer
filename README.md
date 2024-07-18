@@ -4,8 +4,9 @@ I'm a passionate programmer with a keen interest in aviation and a strong enthus
 
 ## Technologies I work with:
 - LLM Frameworks: Langchain & LlamaIndex
-- Mobile Development: Flutter, React Native, Hive
+- Mobile Development: Flutter, React Native
 - Web Development: Express, NodeJs, MongoDB, React + Vite, Python Flask, SqlAlchemy, PostgreSQL
+- Others: WordPress, PHP & MySQL
 
 ## Get in touch
 - LinkedIn: [Munashe Chinake](https://www.linkedin.com/in/munashe-chinake/)
