@@ -1,11 +1,12 @@
 # Hi there, I'm Munashe Chinake 👋
 
-I'm a passionate programmer with a keen interest in aviation and a strong enthusiasm for AI. Currently, I'm focused on developing AI applications and chatbots using Langchain/LlamaIndex technology. Additionally, I'm working on hybrid mobile apps using Flutter/React Native and MERN Stack apps.
+I'm a passionate programmer with a keen interest in aviation and a strong enthusiasm for AI. Currently, I'm focused on developing AI applications and chatbots using Langchain/LlamaIndex frameworks. Additionally, I'm working on hybrid mobile apps using Flutter/React Native and MERN Stack apps. 
 
 ## Technologies I work with:
 - LLM Frameworks: Langchain & LlamaIndex
 - Mobile Development: Flutter, React Native
 - Web Development: Express + NodeJs, MongoDB, React + Vite, NextJS + Tailwind CSS, Python + Flask, SqlAlchemy, PostgreSQL
+- APIs: REST & GraphQL
 - Others: WordPress, PHP & MySQL
 
 ## Get in touch
