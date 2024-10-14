@@ -5,7 +5,7 @@ I'm a passionate programmer with a keen interest in aviation and a strong enthus
 ## Technologies I work with:
 - LLM Frameworks: Langchain & LlamaIndex
 - Mobile Development: Flutter, React Native
-- Web Development:Express + NodeJs, Golang + Vue, MongoDB, React + Vite, NextJS + Tailwind CSS, Python + Flask, SqlAlchemy, PostgreSQL
+- Web Development: Express + NodeJs, Golang + Vue, MongoDB, React + Vite, NextJS + Tailwind CSS, Python + Flask, SqlAlchemy, PostgreSQL
 - APIs: REST & GraphQL
 - Others: WordPress, PHP & MySQL
 
