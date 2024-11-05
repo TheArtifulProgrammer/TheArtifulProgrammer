@@ -7,10 +7,11 @@ I'm a passionate programmer with a keen interest in aviation and a strong enthus
 - Mobile Development: Flutter, React Native
 - Web Development: Express + NodeJs, Golang + Vue, MongoDB, React + Vite, NextJS + Tailwind CSS, Python + Flask, SqlAlchemy, PostgreSQL
 - APIs: REST & GraphQL
+- Containerization: Docker and Kubernetes
 - Others: WordPress, PHP & MySQL
 
 ## Get in touch
-- LinkedIn: [Munashe Chinake](https://www.linkedin.com/in/munashe-chinake/)
+- LinkedIn [Munashe Chinake](https://www.linkedin.com/in/munashe-chinake/)
 
 Feel free to connect with me on LinkedIn! Let's chat about programming, aviation, or anything else that interests you. 🚀✈️
 
