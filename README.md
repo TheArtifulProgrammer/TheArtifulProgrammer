@@ -15,7 +15,7 @@ I'm a passionate programmer with a keen interest in aviation and a strong enthus
 
 Feel free to connect with me on LinkedIn! Let's chat about programming, aviation, or anything else that interests you. 🚀✈️
 
-[![committers.top badge](https://user-badge.committers.top/zimbabwe_private/TheArtifulProgrammer.svg)](https://user-badge.committers.top/zimbabwe_private/TheArtifulProgrammer)
+[![committers.top badge](https://user-badge.committers.top/zimbabwe_private/TheArtifulProgrammer.svg)](https://user-badge.committers.top/zimbabwe_private/TheArtifulProgrammer)  [![wakatime](https://wakatime.com/badge/user/190a1c06-e9ad-43aa-9e4b-cfd0e814f780.svg)](https://wakatime.com/@190a1c06-e9ad-43aa-9e4b-cfd0e814f780)
 
 <!---
 TheArtifulProgrammer/TheArtifulProgrammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
