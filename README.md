@@ -5,9 +5,9 @@ I'm a passionate programmer with a keen interest in aviation and a strong enthus
 ## Technologies I work with:
 - LLM Frameworks: Langchain & LlamaIndex
 - Mobile Development: Flutter, React Native
-- Web Development: Express + NodeJs, Golang + Vue(Nuxt), MongoDB, React + Vite, NextJS + Tailwind CSS, Python + Flask, SqlAlchemy, PostgreSQL
+- Web Development: Typescript, Express + NodeJs, Golang + Vue(Nuxt), MongoDB, React + Vite, NextJS + Tailwind CSS, Python + FastAPI, SqlAlchemy, TypeORM, PostgreSQL
 - APIs: REST & GraphQL
-- Containerization: Docker and Kubernetes
+- CI/CD: Docker, Docker Compose, Jenkins, Terraform, AWS ECS/ECR/Fargate, CloudRun, and Kubernetes
 - Others: WordPress, PHP & MySQL
 
 ## Get in touch
