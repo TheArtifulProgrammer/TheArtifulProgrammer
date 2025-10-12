@@ -10,7 +10,7 @@ I'm a passionate programmer with a keen interest in aviation and a strong enthus
 - CI/CD: Docker, Docker Compose, Jenkins, Terraform, AWS EC2/ECS/ECR/Fargate, CloudRun, and Kubernetes
 - Caching: Redis
 - Queues: Celery, BullMQ, RabbitMQ
-- Others: C++, Java, C#, WordPress, PHP & MySQL
+- Others: C++, Java, C#, WordPress, PHP & MySQL.
 
 ## Get in touch
 - LinkedIn [Munashe Chinake](https://www.linkedin.com/in/munashe-chinake/)
