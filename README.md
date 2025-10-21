@@ -7,7 +7,7 @@ I'm a passionate programmer with a keen interest in aviation and a strong enthus
 - Mobile Development: Flutter, React Native
 - Web Development: Typescript, Express + NodeJs, Golang + Vue(Nuxt), MongoDB, React + Vite, NextJS + Tailwind CSS, Python + FastAPI, SqlAlchemy, TypeORM, PostgreSQL
 - APIs: REST & GraphQL
-- CI/CD: Docker, Docker Compose, Jenkins, Terraform, AWS EC2/ECS/ECR/Fargate, CloudRun, and Kubernetes
+- DevOps: Docker, Docker Compose, Jenkins, Terraform, Ansible, AWS EC2/ECS/ECR/Fargate, CloudRun, and Kubernetes
 - Caching: Redis
 - Queues: Celery, BullMQ, RabbitMQ
 - Others: C++, Java, C#, WordPress, PHP & MySQL.
