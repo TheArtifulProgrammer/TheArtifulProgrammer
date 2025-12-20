@@ -1,25 +1,55 @@
 # Hi there, I'm Munashe Chinake 👋
 
-I'm a passionate programmer with a keen interest in aviation and a strong enthusiasm for AI. I am currently exploring AI, focusing on developing intelligent applications and chatbots using LangChain, LlamaIndex, MCP servers, and agent-based frameworks. Additionally, I'm working on hybrid mobile apps using Flutter/React Native and MERN Stack apps. 
+I'm a passionate software engineer and cloud engineer who loves aviation and building intelligent applications. I work at the intersection of AI, cloud infrastructure, and product-quality software — building reliable, scalable systems and experimenting with LLM-powered experiences (chatbots, assistants, and retrieval-augmented apps).
 
-## Technologies I work with:
-- LLM Frameworks: Langchain & LlamaIndex
-- Mobile Development: Flutter, React Native
-- Web Development: Typescript, Express + NodeJs, Golang + Vue(Nuxt), MongoDB, React + Vite, NextJS + Tailwind CSS, Python + FastAPI, SqlAlchemy, TypeORM, PostgreSQL
-- APIs: REST & GraphQL
-- DevOps: Docker, Docker Compose, Jenkins, Terraform, Ansible, AWS EC2/ECS/ECR/Fargate, CloudRun, and Kubernetes
-- Caching: Redis
-- Queues: Celery, BullMQ, RabbitMQ
-- Others: C++, Java, C#, WordPress, PHP & MySQL
+- Pronouns: he/him
+- Location: Zimbabwe
+- Reach out on LinkedIn: [Munashe Chinake](https://www.linkedin.com/in/munashe-chinake/)
+
+---
+
+## What I do
+I design and build full-stack applications and cloud infrastructure, with a focus on:
+
+- Intelligent applications and chatbots using LLMs and vector stores
+- Scalable cloud-native systems (containers, Kubernetes, serverless)
+- Infrastructure as Code, CI/CD and production observability
+- Mobile and web applications with a great developer experience
+
+---
+
+## Roles
+- Software Engineer — building backend systems, APIs, and web/mobile frontends
+- Cloud Engineer — designing, deploying, and operating scalable cloud infrastructure, IaC (Terraform / Ansible), containerization, orchestration, CI/CD, observability, and cost optimization
+
+---
+
+## Technologies I work with
+
+- LLMs & AI: LangChain, LlamaIndex, embeddings, vector DBs, retrieval-augmented generation
+- Cloud & DevOps: AWS (EC2, ECS/Fargate, ECR), Google Cloud (Cloud Run), Kubernetes, Docker, Terraform, Ansible, Jenkins, CI/CD pipelines, monitoring & logging
+- Backend: Node.js + Express, Python + FastAPI, Golang
+- Databases & Caching: PostgreSQL, MongoDB, Redis
+- Queues & Workers: Celery, RabbitMQ, BullMQ
+- Web & Frontend: TypeScript, React (Vite / Next.js), Vue (Nuxt), Tailwind CSS
+- Mobile: Flutter, React Native
+- ORMs: SQLAlchemy, TypeORM
+- Other languages & platforms: C++, Java, C#, PHP / WordPress, MySQL
+
+---
+
+## Projects & Interests
+- Building conversational agents and intelligent tooling with LLMs
+- Platform engineering for high-availability systems
+- Aviation-related software and tools (flight planning, data analysis)
+- Developer experience: automations, tooling, and clear documentation
+
+---
 
 ## Get in touch
-- LinkedIn [Munashe Chinake](https://www.linkedin.com/in/munashe-chinake/)
+- LinkedIn: [Munashe Chinake](https://www.linkedin.com/in/munashe-chinake/)
+- GitHub: https://github.com/TheArtifulProgrammer
 
-Feel free to connect with me on LinkedIn! Let's chat about programming, aviation, or anything else that interests you. 🚀✈️
+Feel free to connect — let’s chat about AI, cloud engineering, aviation, or software in general. ✈️🚀
 
-[![committers.top badge](https://user-badge.committers.top/zimbabwe_private/TheArtifulProgrammer.svg)](https://user-badge.committers.top/zimbabwe_private/TheArtifulProgrammer)  [![wakatime](https://wakatime.com/badge/user/190a1c06-e9ad-43aa-9e4b-cfd0e814f780.svg)](https://wakatime.com/@190a1c06-e9ad-43aa-9e4b-cfd0e814f780)
-
-<!---
-TheArtifulProgrammer/TheArtifulProgrammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![committers.top badge](https://user-badge.committers.top/zimbabwe_private/TheArtifulProgrammer.svg)](https://user-badge.committers.top/zimbabwe_private/TheArtifulProgrammer)
