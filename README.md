@@ -2,10 +2,6 @@
 
 I'm a passionate software engineer and cloud engineer who loves aviation and building intelligent applications. I work at the intersection of AI, cloud infrastructure, and product-quality software — building reliable, scalable systems and experimenting with LLM-powered experiences (chatbots, assistants, and retrieval-augmented apps).
 
-- Pronouns: he/him
-- Location: Zimbabwe
-- Reach out on LinkedIn: [Munashe Chinake](https://www.linkedin.com/in/munashe-chinake/)
-
 ---
 
 ## What I do
