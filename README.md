@@ -1,6 +1,6 @@
 # Hi there, I'm Munashe Chinake 👋
 
-I'm a passionate programmer with a keen interest in aviation and a strong enthusiasm for AI. I am currently exploring AI, focusing on developing intelligent applications and chatbots using LangChain, LlamaIndex, MCP servers, and agent-based frameworks.. Additionally, I'm working on hybrid mobile apps using Flutter/React Native and MERN Stack apps. 
+I'm a passionate programmer with a keen interest in aviation and a strong enthusiasm for AI. I am currently exploring AI, focusing on developing intelligent applications and chatbots using LangChain, LlamaIndex, MCP servers, and agent-based frameworks. Additionally, I'm working on hybrid mobile apps using Flutter/React Native and MERN Stack apps. 
 
 ## Technologies I work with:
 - LLM Frameworks: Langchain & LlamaIndex
@@ -10,7 +10,7 @@ I'm a passionate programmer with a keen interest in aviation and a strong enthus
 - DevOps: Docker, Docker Compose, Jenkins, Terraform, Ansible, AWS EC2/ECS/ECR/Fargate, CloudRun, and Kubernetes
 - Caching: Redis
 - Queues: Celery, BullMQ, RabbitMQ
-- Others: C++, Java, C#, WordPress, PHP & MySQL.
+- Others: C++, Java, C#, WordPress, PHP & MySQL
 
 ## Get in touch
 - LinkedIn [Munashe Chinake](https://www.linkedin.com/in/munashe-chinake/)
