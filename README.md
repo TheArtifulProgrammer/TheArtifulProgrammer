@@ -1,6 +1,6 @@
 # Hi there, I'm Munashe Chinake 👋
 
-I'm a passionate software engineer and cloud engineer who loves aviation and building intelligent applications. I work at the intersection of AI, cloud infrastructure, and product-quality software — building reliable, scalable systems and experimenting with LLM-powered experiences (chatbots, assistants, and retrieval-augmented apps).
+I'm a passionate software engineer and cloud engineer who loves aviation and building intelligent applications. I work at the intersection of AI, cloud infrastructure, and product-quality software, building reliable, scalable systems and experimenting with LLM-powered experiences (chatbots, assistants, and retrieval-augmented apps).
 
 ---
 
@@ -9,7 +9,7 @@ I design and build full-stack applications and cloud infrastructure, with a focu
 
 - Intelligent applications and chatbots using LLMs and vector stores
 - Scalable cloud-native systems (containers, Kubernetes, serverless)
-- Infrastructure as Code, CI/CD and production observability
+- Infrastructure as Code, CI/CD, and production observability
 - Mobile and web applications with a great developer experience
 
 ---
