@@ -25,12 +25,12 @@ I design and build full-stack applications and cloud infrastructure, with a focu
 - LLMs & AI: LangChain, LlamaIndex, embeddings, vector DBs, retrieval-augmented generation
 - Cloud & DevOps: AWS (EC2, ECS/Fargate, ECR), Google Cloud (Cloud Run), Kubernetes, Docker, Terraform, Ansible, Jenkins, CI/CD pipelines, monitoring & logging
 - Backend: Node.js + Express, Python + FastAPI, Golang
-- Databases & Caching: PostgreSQL, MongoDB, Redis
+- Databases & Caching: PostgreSQL, MongoDB, Redis, MariaDB, Memcached, MSSQL DB
 - Queues & Workers: Celery, RabbitMQ, BullMQ
 - Web & Frontend: TypeScript, React (Vite / Next.js), Vue (Nuxt), Tailwind CSS
 - Mobile: Flutter, React Native
-- ORMs: SQLAlchemy, TypeORM
-- Other languages & platforms: C++, Java, C#, PHP / WordPress, MySQL
+- ORMs: SQLAlchemy, TypeORM, DrizzleORM, Prisma
+- Other languages & platforms: C++, Java, C#, PHP / WordPress, MySQL, Lua
 
 ---
 
