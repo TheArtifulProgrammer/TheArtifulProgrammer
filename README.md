@@ -16,7 +16,7 @@ I design and build full-stack applications and cloud infrastructure, with a focu
 
 ## Roles
 - Software Engineer — building backend systems, APIs, and web/mobile frontends
-- Cloud Engineer — designing, deploying, and operating scalable cloud infrastructure, IaC (Terraform / Ansible), containerization, orchestration, CI/CD, observability, and cost optimization
+- Cloud Engineer — designing, deploying, and operating scalable cloud infrastructure, IaC (Terraform / Ansible), containerization, orchestration, CI/CD, observability, and cost optimization.
 
 ---
 
