@@ -29,7 +29,7 @@ I design and build full-stack applications and cloud infrastructure, with a focu
 - Queues & Workers: Celery, RabbitMQ, BullMQ
 - Web & Frontend: TypeScript, React (Vite / Next.js), Vue (Nuxt), Tailwind CSS
 - Mobile: Flutter, React Native
-- ORMs: SQLAlchemy, TypeORM, DrizzleORM, Prisma
+- ORMs: SQLAlchemy, TypeORM, DrizzleORM, Prisma, GORM
 - Testing: Vitest, SuperTest, PyTest Playwright,  Apache JMeter, K6, Puppeteer
 - Other languages & platforms: C++, Java, C#, PHP / WordPress, MySQL, Lua
 
