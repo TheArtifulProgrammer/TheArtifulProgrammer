@@ -46,6 +46,7 @@ I design and build full-stack applications and cloud infrastructure, with a focu
 ## Get in touch
 - LinkedIn: [Munashe Chinake](https://www.linkedin.com/in/munashe-chinake/)
 - GitHub: https://github.com/TheArtifulProgrammer
+- Portfolio & Resume: https://theartfulprogrammer.com
 
 Feel free to connect — let’s chat about AI, cloud engineering, aviation, or software in general. ✈️🚀
 
