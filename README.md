@@ -7,8 +7,8 @@ I'm a passionate software engineer and cloud engineer who loves aviation and bui
 ## What I do
 I design and build full-stack applications and cloud infrastructure, with a focus on:
 
-- Intelligent applications and chatbots using LLMs and vector stores
-- Scalable cloud-native systems (containers, Kubernetes, serverless)
+- Intelligent applications and chatbots using LLMs and vector stores.
+- Scalable cloud-native systems (containers, Kubernetes, serverless).
 - Infrastructure as Code, CI/CD, and production observability
 - Mobile and web applications with a great developer experience
 
